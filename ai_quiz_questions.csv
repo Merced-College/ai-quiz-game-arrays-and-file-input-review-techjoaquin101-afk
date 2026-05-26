@@ -1,4 +1,9 @@
-Question,CorrectAnswer,Choice2,Choice3,Choice4
+/*
+Name: Hipolito Sedano
+Date: May 25, 2026
+Program Description: This program loads quiz from a CSV file,
+stores them in arrays,and runs an interactive AI quiz game.
+*/
 What does AI stand for?,Artificial Intelligence,Automatic Internet,Advanced Input,Apple Interface
 Which type of AI learns from data?,Machine Learning,Typing,Printing,Copying
 What is a chatbot?,A program that responds to user messages,A computer mouse,A spreadsheet formula,A video game controller
